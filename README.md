@@ -12,3 +12,9 @@
 
 ### Getting messages
 ![image](https://user-images.githubusercontent.com/63096193/125186721-a42f8600-e249-11eb-80b7-cbd703fabc69.png)
+
+---------------------------------------------------------------------------------------------------------------
+
+### A helpful one-liner
+![image](https://user-images.githubusercontent.com/63096193/125188039-2458ea00-e250-11eb-82fa-48052c307699.png)
+
