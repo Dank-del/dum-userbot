@@ -1,0 +1,12 @@
+[pyrogram]
+api_id =
+api_hash =
+phone_number =
+
+[proxy]
+enabled = False
+hostname = 11.22.33.44
+port = 1080
+username = <your_username>
+password = <your_password>
+
