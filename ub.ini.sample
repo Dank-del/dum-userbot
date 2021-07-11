@@ -10,3 +10,5 @@ port = 1080
 username = <your_username>
 password = <your_password>
 
+[ub]
+prefixes = ! .
