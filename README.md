@@ -16,5 +16,8 @@
 ---------------------------------------------------------------------------------------------------------------
 
 ### A helpful one-liner
-![image](https://user-images.githubusercontent.com/63096193/125188039-2458ea00-e250-11eb-82fa-48052c307699.png)
+![image](https://user-images.githubusercontent.com/63096193/125188212-9e896e80-e250-11eb-9806-90acc79a7b06.png)
 
+---------------------------------------------------------------------------------------------------------------
+
+> I think this took less than 5mins to write lmfao.
